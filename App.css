@@ -1,0 +1,5 @@
+@media screen and (min-width: 1500px) {
+  .productCol {
+    width: 20% !important;
+  }
+}
